@@ -1,0 +1,12 @@
+.main-page-img {
+    padding: 100px;
+    background: rgb(153, 51, 109);
+    width: 100px;
+}
+#super-item {
+    color: green;
+}
+li {
+    font-weight: 900;
+    font-size: 30px;
+}
